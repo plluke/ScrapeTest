@@ -1,0 +1,697 @@
+TScrapeTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch ScrapeTest/ScrapeTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o /Users/luke/git/ScrapeTest/ScrapeTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest normal i386
+cCompileStoryboard /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings ScrapeTest/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app /Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets
+cProcessInfoPlistFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist
+cGenerateDSYMFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest
+cTouch /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000526718AD0000000000000176
+t1382488237
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052534EAF00000000000003B5
+t1381191343
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267188700000000000001A0
+t1382488199
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005267188800000000005838D0
+t1382488200
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005267188800000000005B82A0
+t1382488200
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526718880000000000445870
+t1382488200
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000526718880000000000355050
+t1382488200
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005267188800000000002F6810
+t1382488200
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052671888000000000004B000
+t1382488200
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052671888000000000088C680
+t1382488200
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000526718890000000000037620
+t1382488201
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005267188900000000004848F0
+t1382488201
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005267188900000000001290B0
+t1382488201
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005267188B0000000001DB9910
+t1382488203
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005267188C00000000002B9F20
+t1382488204
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052534EC10000000000002338
+t1381191361
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005267188D000000000008D300
+t1382488205
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052534EC1000000000038ACB0
+t1381191361
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052670D3D00000000000141F0
+t1382485309
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052534EC10000000000013500
+t1381191361
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052534EC10000000000033BA0
+t1381191361
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052534EC1000000000001CFB0
+t1381191361
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052534EC1000000000001B2B0
+t1381191361
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005267188D00000000000632B0
+t1382488205
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052534EC10000000000008880
+t1381191361
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005267188D0000000000015080
+t1382488205
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052534EC100000000000230E0
+t1381191361
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052534EC1000000000000E380
+t1381191361
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052534EC10000000000087200
+t1381191361
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052534EC100000000000171A0
+t1381191361
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052534EC10000000000039C10
+t1381191361
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052534EC1000000000000B0B0
+t1381191361
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052534EC10000000000167FE0
+t1381191361
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005267188D00000000000106A0
+t1382488205
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005267188D000000000001CE40
+t1382488205
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052534EC10000000000071040
+t1381191361
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005267188D0000000000067A10
+t1382488205
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052534EC1000000000001BAD0
+t1381191361
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005267188D0000000000088BA0
+t1382488205
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052534EC60000000000000AC9
+t1381191366
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005267189A0000000000005004
+t1382488218
+s20484
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch
+t1383342658
+s107640
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTest.LinkFileList
+c000000005274224100000000000001CF
+t1383342657
+s463
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o
+t1383342658
+s65616
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o
+t1383345656
+s64856
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o
+t1383342658
+s3628
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_dependencies.txt
+t1383342659
+s386
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_generated_info.plist
+t1383342659
+s525
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app
+t1383345656
+s306
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM
+t1383345486
+s102
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Base.lproj/Main_iPad.storyboardc
+t1383345051
+s170
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Base.lproj/Main_iPhone.storyboardc
+t1383345486
+s170
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist
+t1383342659
+s1294
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/PkgInfo
+t1383342659
+s8
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest
+t1383345656
+s30548
+
+N/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings
+t1383342658
+s42
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard
+c0000000052742A1900000000000006B5
+t1383344665
+s1717
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard
+c0000000052742D4E0000000000003BCC
+t1383345486
+s15308
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets
+c00000000527421570000000000000088
+t1383342423
+s136
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist
+c00000000527421570000000000000638
+t1383342423
+s1592
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Prefix.pch
+c00000000527421570000000000000158
+t1383342423
+s344
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.h
+c0000000052742157000000000000012F
+t1383342423
+s303
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m
+c000000005274215700000000000007FB
+t1383342423
+s2043
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.h
+c0000000052742D4D00000000000002F0
+t1383345485
+s752
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m
+c0000000052742DF6000000000000097E
+t1383345654
+s2430
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/en.lproj/InfoPlist.strings
+c0000000052742157000000000000002D
+t1383342423
+s45
+
+N/Users/luke/git/ScrapeTest/ScrapeTest/main.m
+c0000000052742157000000000000016B
+t1383342423
+s363
+
+N/usr/lib/libSystem.B.dylib
+c0000000052670D31000000000000E6D0
+t1382485297
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052670D3D0000000000012A00
+t1382485309
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052670D25000000000002E320
+t1382485285
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052670D300000000000021860
+t1382485296
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052670D3D000000000001B620
+t1382485309
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052670D3D00000000000BD920
+t1382485309
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052670D3D000000000000A120
+t1382485309
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052670D3D000000000001D550
+t1382485309
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052670D3C0000000000014EE0
+t1382485308
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052670D3F0000000000010380
+t1382485311
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052670D3F000000000000C4C0
+t1382485311
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052670D3D00000000000357A0
+t1382485309
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052670D3D000000000000C070
+t1382485309
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052670D300000000000168C00
+t1382485296
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052670D3D0000000000010630
+t1382485309
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052670D3E000000000001DF10
+t1382485310
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052670D310000000000075B00
+t1382485297
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052670D31000000000007CC70
+t1382485297
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052670D3100000000000766C0
+t1382485297
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052670D3E0000000000044DC0
+t1382485310
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052670D310000000000021FA0
+t1382485297
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052670D3E000000000002D900
+t1382485310
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052670D3E000000000001E570
+t1382485310
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052670D36000000000000CC70
+t1382485302
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052670D39000000000000C3F0
+t1382485305
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052670D3E00000000000199F0
+t1382485310
+s104944
+
+CBuild AST from /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m
+r0
+
+CBuild AST from /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m
+r0
+
+CBuild AST from /Users/luke/git/ScrapeTest/ScrapeTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9ca4f1776524b841^a834f2776524b841^---0#1#1#--18"Check dependencies36"46444C7E-0FDE-4115-8D26-635B334F66E0-
+
+CCompileAssetCatalog /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app /Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets
+s405035458.905414
+e405035459.793611
+r1
+xCompileAssetCatalog
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app
+x/Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/LaunchImage-700-568h@2x.png
+o/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Assets.car
+o/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app ScrapeTest/Images.xcassets110"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app ScrapeTest/Images.xcassets62dae7c25924b841^5a2acbc35924b841^-414"/* com.apple.actool.compilation-results *//Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/LaunchImage-700-568h@2x.png/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Assets.car/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@61"file:///Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets/0000000000000000^1171"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app ScrapeTest/Images.xcassets    cd /Users/luke/git/ScrapeTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app /Users/luke/git/ScrapeTest/ScrapeTest/Images.xcassets36"8F18EA61-C74E-44D9-83E6-2D8A20CC2340-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405035458.594037
+e405035458.810363
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o
+x/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m243"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o ScrapeTest/ScrapeTestAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler593198c25924b841^2574cfc25924b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m0000000000000000^3761"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o ScrapeTest/ScrapeTestAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luke/git/ScrapeTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luke/git/ScrapeTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-generated-files.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-own-target-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-all-target-headers.hmap -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-project-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources/i386 -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources -F/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch -MMD -MT dependencies -MF /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.d --serialize-diagnostics /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.dia -c /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.m -o /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o36"2B6F31C3-375E-46B4-A5B1-A850782CBE2F-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405038455.945623
+e405038456.008930
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o
+x/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m249"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o ScrapeTest/ScrapeTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c2af2776524b841^c34902786524b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m0000000000000000^3779"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o ScrapeTest/ScrapeTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luke/git/ScrapeTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luke/git/ScrapeTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-generated-files.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-own-target-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-all-target-headers.hmap -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-project-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources/i386 -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources -F/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch -MMD -MT dependencies -MF /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.d --serialize-diagnostics /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.dia -c /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestViewController.m -o /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o36"A57842CE-2E4B-4EF6-B446-CF1785EE227B-
+b937EDAB0-155C-4FD1-A984-151882DC8157
+
+CCompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o /Users/luke/git/ScrapeTest/ScrapeTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405035458.594406
+e405035458.810056
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o
+x/Users/luke/git/ScrapeTest/ScrapeTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luke/git/ScrapeTest/ScrapeTest/main.m
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTestAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/luke/git/ScrapeTest/ScrapeTest/main.m209"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o ScrapeTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb24798c25924b841^5b60cfc25924b841^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/luke/git/ScrapeTest/ScrapeTest/main.m0000000000000000^3659"CompileC DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o ScrapeTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luke/git/ScrapeTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luke/git/ScrapeTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-generated-files.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-own-target-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-all-target-headers.hmap -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-project-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources/i386 -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources -F/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch -MMD -MT dependencies -MF /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.dia -c /Users/luke/git/ScrapeTest/ScrapeTest/main.m -o /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o36"563473D5-2830-4936-ADE3-5844E14EFDC5-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CCompileStoryboard /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard
+s405037850.524894
+e405037851.282849
+r1
+xCompileStoryboard
+x/Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard ScrapeTest/Base.lproj/Main_iPad.storyboard60"CompileStoryboard ScrapeTest/Base.lproj/Main_iPad.storyboardfc6e861a6324b841^2b6a481b6324b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard0000000000000000^839"CompileStoryboard ScrapeTest/Base.lproj/Main_iPad.storyboard    cd /Users/luke/git/ScrapeTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Base.lproj/Main_iPad.storyboardc /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPad.storyboard36"B68E3FAD-EE77-43AB-A0B7-7397769E9529-
+bF898C4A6-CC51-4069-A984-F1F352E3FF98
+
+CCompileStoryboard /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard
+s405038286.135316
+e405038286.404256
+r1
+xCompileStoryboard
+x/Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard ScrapeTest/Base.lproj/Main_iPhone.storyboard62"CompileStoryboard ScrapeTest/Base.lproj/Main_iPhone.storyboardd5b122ce6424b841^4e7e67ce6424b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard0000000000000000^845"CompileStoryboard ScrapeTest/Base.lproj/Main_iPhone.storyboard    cd /Users/luke/git/ScrapeTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Base.lproj/Main_iPhone.storyboardc /Users/luke/git/ScrapeTest/ScrapeTest/Base.lproj/Main_iPhone.storyboard36"D7F2F41E-CBB5-459E-B106-078B6F916E52-
+bD10EB865-ECC5-408D-91BB-26593890AA34
+
+CCopyStringsFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings ScrapeTest/en.lproj/InfoPlist.strings
+s405035458.905097
+e405035458.906966
+r1
+xCopyStringsFile
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings
+xScrapeTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy ScrapeTest/en.lproj/InfoPlist.strings144"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings ScrapeTest/en.lproj/InfoPlist.stringsc5cbe7c25924b841^1f2fe8c25924b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/luke/git/ScrapeTest/ScrapeTest/en.lproj/InfoPlist.strings0000000000000000^605"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj/InfoPlist.strings ScrapeTest/en.lproj/InfoPlist.strings    cd /Users/luke/git/ScrapeTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/en.lproj -- ScrapeTest/en.lproj/InfoPlist.strings36"A50672EB-DAD7-4593-A523-924CD7595A1A-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CGenerateDSYMFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest
+s405038456.039743
+e405038456.055196
+r1
+xGenerateDSYMFile
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM160"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTeste23a0a786524b841^4f220e786524b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM/0000000000000000^691"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest    cd /Users/luke/git/ScrapeTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest -o /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app.dSYM36"59476F0B-0750-4269-B2EB-7FA4A3A39D5E-
+b937EDAB0-155C-4FD1-A984-151882DC8157
+
+CLd /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest normal i386
+s405038456.010513
+e405038456.037697
+r1
+xLd
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest
+xnormal
+xi386
+d/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestViewController.o
+d/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTestAppDelegate.o
+d/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest89"Ld DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest normal i386e0be02786524b841^2aa709786524b841^---0#0#1#--1419"Ld DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest normal i386    cd /Users/luke/git/ScrapeTest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/Objects-normal/i386/ScrapeTest_dependency_info.dat -o /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/ScrapeTest36"03D37FCE-27BC-4514-934C-E116B9345CCD-
+b937EDAB0-155C-4FD1-A984-151882DC8157
+
+CProcessInfoPlistFile /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist
+s405035459.794137
+e405035459.796635
+r1
+xProcessInfoPlistFile
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist
+x/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Process /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist128"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist ScrapeTest/ScrapeTest-Info.plistbf64cbc35924b841^edf0cbc35924b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist0000000000000000^897"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist ScrapeTest/ScrapeTest-Info.plist    cd /Users/luke/git/ScrapeTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Info.plist -genpkginfo /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/assetcatalog_generated_info.plist -o /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app/Info.plist36"D2EBF36D-86C0-4E93-BF5A-FBF6BCB619E4-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CProcessPCH /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch ScrapeTest/ScrapeTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405035457.496749
+e405035458.593136
+r1
+xProcessPCH
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch
+xScrapeTest/ScrapeTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ScrapeTest/ScrapeTest-Prefix.pch235"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch ScrapeTest/ScrapeTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf04d7fc15924b841^e4d797c25924b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Prefix.pch0000000000000000^3574"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch ScrapeTest/ScrapeTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/luke/git/ScrapeTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/luke/git/ScrapeTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-generated-files.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-own-target-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-all-target-headers.hmap -iquote /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/ScrapeTest-project-headers.hmap -I/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources/i386 -I/Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/ScrapeTest.build/Debug-iphonesimulator/ScrapeTest.build/DerivedSources -F/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.d -c /Users/luke/git/ScrapeTest/ScrapeTest/ScrapeTest-Prefix.pch -o /Users/luke/git/ScrapeTest/DerivedData/Build/Intermediates/PrecompiledHeaders/ScrapeTest-Prefix-ewzirkrzrpkqgkbpcdvniemrzvez/ScrapeTest-Prefix.pch.pch36"6B9B161D-FCEE-4A09-B88A-2E714A557B83-
+b7BCC69E1-58F1-4FE7-8855-5BCAD3D5599F
+
+CProcessPCH /Users/luke/git/ScrapeTest/DerivedData/ScrapeTest/Index/PrecompiledHeaders/ScrapeTest-Prefix-ffawndgraccvozdymylnllvfmcdb_ast/ScrapeTest-Prefix.pch.pch ScrapeTest/ScrapeTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app
+s405038229.515220
+e405038229.518685
+r1
+xTouch
+x/Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app69"Touch DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app1bf283956424b841^86c984956424b841^---0#0#1#--412"Touch DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app    cd /Users/luke/git/ScrapeTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/luke/git/ScrapeTest/DerivedData/Build/Products/Debug-iphonesimulator/ScrapeTest.app36"3D65C753-671A-4C3F-AAAF-3C64C990536F-
+b97724BAA-37E4-48FE-8467-42A01F56A813
+
